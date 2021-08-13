@@ -1,0 +1,26 @@
+
+body
+{
+background-image:linear-gradient(to bottom,#ff928b,#ffac81);
+font-weight:bold;
+}
+h1
+{
+letter-spacing:3px;
+font-family:fantasy;
+color:black;
+text-shadow: 0 0 13px #ffffff, 0 0 19px #d9caff;
+}
+h2
+{
+background-color:#d9caff;
+}
+.button
+{
+background-color:#d9caff;
+font-weight:bold;
+}
+input
+{
+border-style:groove;border-width:2px;border-color:blue;border-radius:10px
+}

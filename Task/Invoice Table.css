@@ -1,0 +1,54 @@
+
+body
+{
+background-image: linear-gradient(to bottom,#6db9ef,#7ce08a);
+font-weight:bold;
+}
+h1
+{
+font-family:fantasy;
+color:blue;
+background-color:#ffdb58;
+}
+table,tr,td
+{
+border: 1px solid black;
+border-collapse: collapse;
+background-color:#ffdb58;
+}
+th,td
+{
+padding: 8px;
+}
+th
+{
+color:#ffffff;
+background-color: #145DA0;
+}
+.tot
+{
+    font-weight: bold;
+    margin-left:850px;
+    margin-bottom:20px;
+    margin-top:-40px;
+    word-spacing: 30px;
+}
+fieldset
+{
+padding:5px 50px 5px 30px;
+margin:20px 500px 20px 500px;
+background-color:#fd9196;
+border-style:groove;border-width:10px;border-color:blue;border-radius:20px
+}
+.tab
+{
+border-style:groove;border-width:10px;border-color:blue;border-radius:20px
+}
+button
+{
+padding:10px 10px 10px 10px;
+margin:10px 10px 10px 600px;
+background-color: Blue;
+color: White;
+width:10%
+}
